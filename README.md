@@ -4,11 +4,17 @@
 
 Estou construindo minha base em programação e desenvolvimento web por meio de estudos e projetos práticos. Curso o **4º período de Engenharia da Computação na Universidade Federal de Ouro Preto** — informação atualizada em novembro de 2026.
 
+Moro em **João Monlevade, Minas Gerais**, por conta da graduação.
+
 Busco uma **oportunidade de estágio** para aprender com uma equipe e contribuir em projetos reais. Também tenho interesse em projetos freelance e em colaborar no desenvolvimento de soluções web.
 
 **[LinkedIn](https://www.linkedin.com/in/raphael-lima-teixeira-b65092396/)** · **[E-mail](mailto:rlteixeira084@gmail.com)** · **[Projeto online](https://auto-escola-ouro-editor.vercel.app/)**
 
 ---
+
+### Disponibilidade
+
+Tenho preferência por oportunidades **remotas ou híbridas**. Atualmente, minhas aulas são à tarde e tenho disponibilidade **pela manhã e à noite**. Posso avaliar ajustes na grade de aulas para conciliar o estágio e a faculdade.
 
 ### O que estou aprendendo
 
@@ -17,6 +23,8 @@ Busco uma **oportunidade de estágio** para aprender com uma equipe e contribuir
 | **HTML e CSS** | Estrutura de páginas, estilos e interfaces responsivas |
 | **JavaScript** | Lógica de programação e interatividade no navegador |
 | **TypeScript** | Tipagem e organização do código |
+
+Na graduação, já tive contato com **C, Java e Python**.
 
 Tenho interesse em **front-end, back-end, aplicativos, inteligência artificial, dados e bancos de dados**. Estou explorando essas áreas enquanto aprofundo os fundamentos de programação.
 
